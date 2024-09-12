@@ -1,0 +1,1 @@
+This is a web page that will tile the web page so you can see your nav bar options and you can close it if you want to just stay on the home page, the buttons do not go to this is more just for the tiling of the web page.
